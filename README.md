@@ -1,6 +1,9 @@
-
-
 # Local Add Page Module to Course Web Service Function Plugin for Moodle
+
+
+<div align="center">
+    <img src="https://umami-learning.com/wp-content/uploads/2023/01/Asset-14@4x-1-1536x361.png" alt="UMAMI E-Learning Solutions Logo" width="300"/>
+</div>
 
 ## Description
 Local Add Page Module to Course Web Service Function Plugin by UMAMI E-Learning Solutions is a Moodle plugin designed to enhance course content management. It allows administrators to seamlessly add page modules to Moodle courses through web service moodle api as a function. This plugin streamlines the process of incorporating rich text content into courses.
